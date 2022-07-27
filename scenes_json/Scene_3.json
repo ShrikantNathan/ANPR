@@ -1,0 +1,243 @@
+{
+  "Export": {
+    "GPS": [
+      {
+        "DateTime": "2022-01-05 15:56:14",
+        "Elevation": 672,
+        "Latitude": 35.509743,
+        "Longitude": -82.526139
+      },
+      {
+        "DateTime": "2022-01-05 15:56:15",
+        "Elevation": 672,
+        "Latitude": 35.5098,
+        "Longitude": -82.526156
+      },
+      {
+        "DateTime": "2022-01-05 15:56:16",
+        "Elevation": 672,
+        "Latitude": 35.509848,
+        "Longitude": -82.526169
+      },
+      {
+        "DateTime": "2022-01-05 15:56:17",
+        "Elevation": 672,
+        "Latitude": 35.509883,
+        "Longitude": -82.526177
+      },
+      {
+        "DateTime": "2022-01-05 15:56:18",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:19",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:20",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:21",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:22",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:23",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:24",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:25",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:26",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:27",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:28",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:29",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:30",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:31",
+        "Elevation": 672,
+        "Latitude": 35.509905,
+        "Longitude": -82.526186
+      },
+      {
+        "DateTime": "2022-01-05 15:56:32",
+        "Elevation": 671,
+        "Latitude": 35.509938,
+        "Longitude": -82.526164
+      },
+      {
+        "DateTime": "2022-01-05 15:56:33",
+        "Elevation": 671,
+        "Latitude": 35.509972,
+        "Longitude": -82.526169
+      },
+      {
+        "DateTime": "2022-01-05 15:56:34",
+        "Elevation": 671,
+        "Latitude": 35.510022,
+        "Longitude": -82.526179
+      },
+      {
+        "DateTime": "2022-01-05 15:56:35",
+        "Elevation": 671,
+        "Latitude": 35.51008,
+        "Longitude": -82.526194
+      },
+      {
+        "DateTime": "2022-01-05 15:56:36",
+        "Elevation": 671,
+        "Latitude": 35.510152,
+        "Longitude": -82.526207
+      },
+      {
+        "DateTime": "2022-01-05 15:56:37",
+        "Elevation": 671,
+        "Latitude": 35.510227,
+        "Longitude": -82.526234
+      },
+      {
+        "DateTime": "2022-01-05 15:56:38",
+        "Elevation": 671,
+        "Latitude": 35.510307,
+        "Longitude": -82.526264
+      },
+      {
+        "DateTime": "2022-01-05 15:56:39",
+        "Elevation": 670,
+        "Latitude": 35.510402,
+        "Longitude": -82.526291
+      },
+      {
+        "DateTime": "2022-01-05 15:56:40",
+        "Elevation": 670,
+        "Latitude": 35.510508,
+        "Longitude": -82.526319
+      },
+      {
+        "DateTime": "2022-01-05 15:56:41",
+        "Elevation": 670,
+        "Latitude": 35.510622,
+        "Longitude": -82.526349
+      },
+      {
+        "DateTime": "2022-01-05 15:56:42",
+        "Elevation": 670,
+        "Latitude": 35.510745,
+        "Longitude": -82.526371
+      },
+      {
+        "DateTime": "2022-01-05 15:56:43",
+        "Elevation": 670,
+        "Latitude": 35.510872,
+        "Longitude": -82.526399
+      },
+      {
+        "DateTime": "2022-01-05 15:56:44",
+        "Elevation": 670,
+        "Latitude": 35.511002,
+        "Longitude": -82.526432
+      }
+    ],
+    "Sensors": [
+      {
+        "DateTimeStart": "2022-01-05 15:56:14",
+        "DateTimeStop": "2022-01-05 15:56:39",
+        "EventName": "Brakes BR"
+      },
+      {
+        "DateTimeStart": "2022-01-05 15:56:20",
+        "DateTimeStop": "2022-01-05 15:56:31",
+        "EventName": "Stop Arm ST"
+      },
+      {
+        "DateTimeStart": "2022-01-05 15:56:25",
+        "DateTimeStop": "2022-01-05 15:56:38",
+        "EventName": "Ill Pass IP"
+      }
+    ],
+    "Vehicle": "NCBU0077",
+    "Device": "00880287AF",
+    "Date": "2022-01-05",
+    "StartTime": "15:56:14",
+    "EndTime": "15:56:44",
+    "TaskChannel": [
+      1,
+      6,
+      7,
+      8
+    ],
+    "TaskEvent": [
+      {
+        "EventID": 1,
+        "NextTime": 19,
+        "PreTime": 11
+      }
+    ],
+    "TaskID": 32,
+    "TaskIO": [
+      8
+    ],
+    "TaskName": "Ill Pass Auto DL",
+    "LPR_Events": [
+      {
+        "Text": "E844",
+        "Confidence": 40,
+        "Center_X": 0,
+        "Center_Y": 321,
+        "Width": 44,
+        "Height": 337,
+        "TimeStamp": "2022-01-05 15:56:21"
+      }
+    ]
+  }
+}

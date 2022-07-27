@@ -1,0 +1,335 @@
+{
+  "Export": {
+    "GPS": [
+      {
+        "DateTime": "2021-05-19 15:08:39",
+        "Elevation": 695,
+        "Latitude": 35.491028,
+        "Longitude": -82.431864
+      },
+      {
+        "DateTime": "2021-05-19 15:08:40",
+        "Elevation": 696,
+        "Latitude": 35.491193,
+        "Longitude": -82.431789
+      },
+      {
+        "DateTime": "2021-05-19 15:08:41",
+        "Elevation": 696,
+        "Latitude": 35.491355,
+        "Longitude": -82.431709
+      },
+      {
+        "DateTime": "2021-05-19 15:08:42",
+        "Elevation": 697,
+        "Latitude": 35.49152,
+        "Longitude": -82.431632
+      },
+      {
+        "DateTime": "2021-05-19 15:08:43",
+        "Elevation": 697,
+        "Latitude": 35.491687,
+        "Longitude": -82.431554
+      },
+      {
+        "DateTime": "2021-05-19 15:08:44",
+        "Elevation": 698,
+        "Latitude": 35.491853,
+        "Longitude": -82.431471
+      },
+      {
+        "DateTime": "2021-05-19 15:08:45",
+        "Elevation": 698,
+        "Latitude": 35.492018,
+        "Longitude": -82.431376
+      },
+      {
+        "DateTime": "2021-05-19 15:08:46",
+        "Elevation": 699,
+        "Latitude": 35.492178,
+        "Longitude": -82.431272
+      },
+      {
+        "DateTime": "2021-05-19 15:08:47",
+        "Elevation": 699,
+        "Latitude": 35.492333,
+        "Longitude": -82.431159
+      },
+      {
+        "DateTime": "2021-05-19 15:08:48",
+        "Elevation": 700,
+        "Latitude": 35.492482,
+        "Longitude": -82.431037
+      },
+      {
+        "DateTime": "2021-05-19 15:08:49",
+        "Elevation": 700,
+        "Latitude": 35.492628,
+        "Longitude": -82.430906
+      },
+      {
+        "DateTime": "2021-05-19 15:08:50",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:51",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:52",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:53",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:54",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:55",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:56",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:57",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:58",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:08:59",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:00",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:01",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:02",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:03",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:04",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:05",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:06",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:07",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:08",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      },
+      {
+        "DateTime": "2021-05-19 15:09:09",
+        "Elevation": 701,
+        "Latitude": 35.523823,
+        "Longitude": -82.430772
+      }
+    ],
+    "Sensors": [
+      {
+        "DateTimeStart": "2021-05-19 15:08:41",
+        "DateTimeStop": "2021-05-19 15:09:05",
+        "EventName": "Brakes BR"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:49",
+        "DateTimeStop": "2021-05-19 15:09:03",
+        "EventName": "Stop Arm ST"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:50",
+        "DateTimeStop": "2022-01-05 15:09:05",
+        "EventName": "Ill Pass IP"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:09:07",
+        "DateTimeStop": "2021-05-19 15:09:28",
+        "EventName": "Right Tn RT"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:41",
+        "DateTimeStop": "2021-05-19 15:09:05",
+        "EventName": "Brakes BR"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:18:49",
+        "DateTimeStop": "2021-05-19 15:19:03",
+        "EventName": "Stop Arm ST"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:50",
+        "DateTimeStop": "2022-01-05 15:09:05",
+        "EventName": "Ill Pass IP"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:09:07",
+        "DateTimeStop": "2021-05-19 15:09:28",
+        "EventName": "Right Tn RT"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:41",
+        "DateTimeStop": "2021-05-19 15:09:05",
+        "EventName": "Brakes BR"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:28:49",
+        "DateTimeStop": "2021-05-19 15:29:03",
+        "EventName": "Stop Arm ST"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:50",
+        "DateTimeStop": "2022-01-05 15:09:05",
+        "EventName": "Ill Pass IP"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:09:07",
+        "DateTimeStop": "2021-05-19 15:09:28",
+        "EventName": "Right Tn RT"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:41",
+        "DateTimeStop": "2021-05-19 15:09:05",
+        "EventName": "Brakes BR"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:38:49",
+        "DateTimeStop": "2021-05-19 15:39:03",
+        "EventName": "Stop Arm ST"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:08:50",
+        "DateTimeStop": "2022-01-05 15:09:05",
+        "EventName": "Ill Pass IP"
+      },
+      {
+        "DateTimeStart": "2021-05-19 15:09:07",
+        "DateTimeStop": "2021-05-19 15:09:28",
+        "EventName": "Right Tn RT"
+      }
+    ],
+    "Vehicle": "NCBU0279",
+    "Device": "008802783A",
+    "Date": "2021-05-19",
+    "StartTime": "15:08:39",
+    "EndTime": "15:09:09",
+    "TaskChannel": [
+      1,
+      6,
+      7,
+      8
+    ],
+    "TaskEvent": [
+      {
+        "EventID": 16,
+        "NextTime": 19,
+        "PreTime": 11
+      }
+    ],
+    "TaskID": 18,
+    "TaskIO": [
+      8
+    ],
+    "TaskName": "Ill Pass Auto DL",
+    "LPR_Events": [
+      {
+        "Text": "E844",
+        "Confidence": 63,
+        "Center_X": 203,
+        "Center_Y": 385,
+        "Width": 272,
+        "Height": 418,
+        "TimeStamp": "2021-05-19 15:08:52"
+      },
+      {
+        "Text": "TP-68445",
+        "Confidence": 50,
+        "Center_X": 155,
+        "Center_Y": 358,
+        "Width": 217,
+        "Height": 385,
+        "TimeStamp": "2021-05-19 15:08:52"
+      },
+      {
+        "Text": "- -",
+        "Confidence": 65,
+        "Center_X": 65,
+        "Center_Y": 307,
+        "Width": 120,
+        "Height": 335,
+        "TimeStamp": "2021-05-19 15:08:52"
+      },
+      {
+        "Text": "TP-68445)",
+        "Confidence": 43,
+        "Center_X": 0,
+        "Center_Y": 270,
+        "Width": 55,
+        "Height": 298,
+        "TimeStamp": "2021-05-19 15:08:53"
+      }
+    ]
+  }
+}

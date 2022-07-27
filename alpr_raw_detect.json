@@ -1,0 +1,53 @@
+{
+   "Export" : {
+        "GPS" : [
+            { "DateTime" : "2021-05-19 15:08:39", "Elevation" : 695, "Latitude" : 35.4910280, "Longitude" : -82.4318640        },
+            { "DateTime" : "2021-05-19 15:08:40", "Elevation" : 696, "Latitude" : 35.4911930, "Longitude" : -82.43178899999999 },
+            { "DateTime" : "2021-05-19 15:08:41", "Elevation" : 696, "Latitude" : 35.4913550, "Longitude" : -82.4317090        },
+            { "DateTime" : "2021-05-19 15:08:42", "Elevation" : 697, "Latitude" : 35.491520,  "Longitude" : -82.43163199999999 },
+            { "DateTime" : "2021-05-19 15:08:43", "Elevation" : 697, "Latitude" : 35.4916870, "Longitude" : -82.43155400000001 },
+            { "DateTime" : "2021-05-19 15:08:44", "Elevation" : 698, "Latitude" : 35.4918530, "Longitude" : -82.4314710        },
+            { "DateTime" : "2021-05-19 15:08:45", "Elevation" : 698, "Latitude" : 35.4920180, "Longitude" : -82.4313760        },
+            { "DateTime" : "2021-05-19 15:08:46", "Elevation" : 699, "Latitude" : 35.4921780, "Longitude" : -82.43127200000001 },
+            { "DateTime" : "2021-05-19 15:08:47", "Elevation" : 699, "Latitude" : 35.4923330, "Longitude" : -82.43115899999999 },
+            { "DateTime" : "2021-05-19 15:08:48", "Elevation" : 700, "Latitude" : 35.4924820, "Longitude" : -82.4310370        },
+            { "DateTime" : "2021-05-19 15:08:49", "Elevation" : 700, "Latitude" : 35.4926280, "Longitude" : -82.43090599999999 },
+            { "DateTime" : "2021-05-19 15:08:50", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:51", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:52", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:53", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:54", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:55", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:56", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:57", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:58", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:08:59", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:00", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:01", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:02", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:03", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:04", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:05", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:06", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:07", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:08", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        },
+            { "DateTime" : "2021-05-19 15:09:09", "Elevation" : 701, "Latitude" : 35.5238230, "Longitude" : -82.4307720        }
+        ],
+        "Sensors" : [
+            { "DateTimeStart" : "2021-05-19 15:08:41", "DateTimeStop" : "2021-05-19 15:09:05", "EventName" : "Brakes BR"   },
+            { "DateTimeStart" : "2021-05-19 15:08:49", "DateTimeStop" : "2021-05-19 15:09:03", "EventName" : "Stop Arm ST" },
+            { "DateTimeStart" : "2021-05-19 15:08:50", "DateTimeStop" : "2022-01-05 15:09:05", "EventName" : "Ill Pass IP" },
+            { "DateTimeStart" : "2021-05-19 15:09:07", "DateTimeStop" : "2021-05-19 15:09:28", "EventName" : "Right Tn RT" }
+        ],
+        "Vehicle"     : "NCBU0279",
+        "Device"      : "008802783A",
+        "Date"        : "2021-05-19",
+        "StartTime"   : "15:08:39",
+        "EndTime"     : "15:09:09",
+        "TaskChannel" : [ 1, 6, 7, 8 ],
+        "TaskEvent"   : [{ "EventID":16, "NextTime":19, "PreTime":11 }],
+        "TaskID"      : 18,
+        "TaskIO"      : [8],
+        "TaskName"    : "Ill Pass Auto DL"
+   }
+}
